@@ -1,0 +1,9 @@
+{
+  "rules": [
+    {
+      "keyword": "しりょう",
+      "message_file": "templates/dm-message.txt",
+      "media_ids": []
+    }
+  ]
+}

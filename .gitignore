@@ -1,0 +1,9 @@
+.env
+data/*
+!data/.gitkeep
+queue/*.json
+queue/done/
+config/keywords.json
+config/profile.md
+__pycache__/
+*.pyc
